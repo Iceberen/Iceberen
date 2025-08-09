@@ -39,14 +39,19 @@
 ---
 
 ## 🚀 Технологии и инструменты, навыки
-- 🐍 Python, FastAPI, Django, DRF, Flask
-- 🛢 PostgreSQL, SQLite
-- 🐳 Docker, Docker Compose
-- ☁️ Google Cloud API, Yandex Cloud, Telegram API
-- 🧪 Pytest, CI/CD (GitHub Actions), Postman
-- 📁 Git, GitHub, GitLab
-- 📚 Swagger / OpenAPI, Redoc
 
+- 💻 Язык программирования: Python
+- 🖥 Web-фреймворки: Django, Django REST Framework, FastAPI, Flask
+- 🗄 Базы данных: PostgreSQL, SQLite
+- 📦 Контейнеризация и CI/CD: Docker, Docker Compose, GitHub Actions
+- 🔌 API и интеграции: JWT, Telegram API, Google Sheets API
+- 🕵 Парсинг и анализ данных: Scrapy, BeautifulSoup
+- 🧪 Тестирование: Pytest, unittest
+- 📄 Документация: Swagger, Redoc
+- ☁ Облака и хостинг: Google Cloud, Yandex Cloud
+- 🎮 Дополнительно: PyGame, Git, GitHub, Postman
+
+---
 
 ## 📌 Проекты
 
@@ -69,14 +74,17 @@
 | [django_sprint1](https://github.com/Iceberen/django_sprint1) | Проект Blogicum (Sprint 1) на Django | Django, Pytest, HTML |
 | [The Snake](https://github.com/Iceberen/the_snake) | Классическая игра Snake с GUI на PyGame | Python, PyGame, ООП |
 
+---
+
 ## 📫 Контакты
 - Email: vgv1tpu@yandex.ru
 - Telegram: [@Iceberen](https://t.me/Iceberen)
+
+---
 
 ## 🧠 О себе
 - Обожаю автоматизировать всё, что можно, особенно рутину
 - Практикую clean code и TDD
 - Сейчас изучаю: **asyncio**, **PyTorch**, **Tensorflow**
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iceberen&show_icons=true&theme=radical)
+---
